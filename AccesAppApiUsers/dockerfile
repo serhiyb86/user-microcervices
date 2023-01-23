@@ -1,0 +1,4 @@
+FROM openjdk:17-oracle
+VOLUME /tmp 
+COPY target/AccesAppApiUsers-0.0.1-SNAPSHOT.jar AccesAppApiUsers.jar
+ENTRYPOINT ["java","-jar","AccesAppApiUsers.jar"]

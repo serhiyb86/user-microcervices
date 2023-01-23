@@ -1,0 +1,20 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¬ªÕâþÿÿÿÿ
+]
+java:S2094!"BRemove this empty class, write its code or make it an "interface".(¦Á¦¼ýÿÿÿÿ
+E
+java:S11726"*Remove this unused method parameter "err".(ÌÌ§¥úÿÿÿÿ
+M
+java:S1135="2Complete the task associated to this TODO comment.(¶óýªúÿÿÿÿ
+c
+java:S1126D"AReplace this if-then-else statement by a single return statement.(òõ˜Æùÿÿÿÿ8†›†ÔÝ0
+n
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ
+[
+java:S1128
+"ERemove this unused import 'org.springframework.core.env.Environment'.(¹‡¨¹
+P
+java:S1128"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸýÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
